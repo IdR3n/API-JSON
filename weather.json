@@ -1,0 +1,65 @@
+{
+    "cities": [
+        {
+            "name": "Genève, CH",
+            "id": "2660646",
+            "image":"./images/Flag_Geneva.png"
+        },
+        {
+            "name": "Istanbul, TR",
+            "id": "745044",
+            "image":"./images/Flag_Turkish.png"
+        },
+        {
+            "name": "Hamburg, DE",
+            "id": "2911298",
+            "image":"./images/Flag_Hamburg.png"
+        },
+        {
+            "name": "Fife, GB",
+            "id": "2649469",
+            "image":"./images/Flag_Fife.png"
+        },
+
+        {
+            "name": "Cape Town, ZA",
+            "id": "3369157"
+        },
+        {
+            "name": "Budapest, HU",
+            "id": "3054643"
+        },
+        {
+            "name": "Bagdad, IQ",
+            "id": "98182"
+        },
+        {
+            "name": "Islamabad, PK",
+            "id": "1162015"
+        },
+        {
+            "name": "Moscow, RU",
+            "id": "524901"
+        },
+        {
+            "name": "Kiev(kyiv), UA",
+            "id": "703448"
+        },
+        {
+            "name": "Barcelona, ES",
+            "id": "3128760"
+        },
+        {
+            "name": "Warsaw, PL",
+            "id": "756135"
+        },
+        {
+            "name": "Athens, GR",
+            "id": "264371"
+        },
+        {
+            "name": "Paris, FR",
+            "id": "2988507"
+        }
+    ]
+}
