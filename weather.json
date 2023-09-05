@@ -23,43 +23,53 @@
 
         {
             "name": "Cape Town, ZA",
-            "id": "3369157"
+            "id": "3369157",
+            "image":"./images/Flag_CapeTown.png"
         },
         {
             "name": "Budapest, HU",
-            "id": "3054643"
+            "id": "3054643",
+            "image":"./images/Flag_Budapest"
         },
         {
-            "name": "Bagdad, IQ",
-            "id": "98182"
+            "name": "Tokyo, JP",
+            "id": "1850147",
+            "image":"./images/Flag_Japan.png"
         },
         {
-            "name": "Islamabad, PK",
-            "id": "1162015"
+            "name": "Florence, IT",
+            "id": "3176959",
+            "image":"./images/Flag_Florence.png"
         },
         {
             "name": "Moscow, RU",
-            "id": "524901"
+            "id": "524901",
+            "image":"./images/Flag_Moscow.png"
         },
         {
             "name": "Kiev(kyiv), UA",
-            "id": "703448"
+            "id": "703448",
+            "image":"./images/Flag_Kiev.png"
         },
         {
             "name": "Barcelona, ES",
-            "id": "3128760"
+            "id": "3128760",
+            "image":"./images/Flag_Barcelona"
         },
         {
             "name": "Warsaw, PL",
-            "id": "756135"
+            "id": "756135",
+            "image":"./images/Flag_Warsaw.png"
         },
         {
             "name": "Athens, GR",
-            "id": "264371"
+            "id": "264371",
+            "image":"./images/Flag_Athens.png"
         },
         {
             "name": "Paris, FR",
-            "id": "2988507"
+            "id": "2988507",
+            "image":"./images/Flag_Paris.png"
         }
     ]
 }
