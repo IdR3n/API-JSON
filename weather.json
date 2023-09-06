@@ -1,74 +1,88 @@
 {
     "cities": [
         {
+            "id":"1",
             "name": "Genève, CH",
-            "id": "2660646",
+            "city_id": "2660646",
             "image":"./images/Flag_Geneva.png"
         },
         {
+            "id":"2",
             "name": "Istanbul, TR",
-            "id": "745044",
+            "city_id": "745044",
             "image":"./images/Flag_Turkish.png"
         },
         {
+            "id":"3",
             "name": "Hamburg, DE",
-            "id": "2911298",
+            "city_id": "2911298",
             "image":"./images/Flag_Hamburg.png"
         },
         {
+            "id":"4",
             "name": "Fife, GB",
-            "id": "2649469",
+            "city_id": "2649469",
             "image":"./images/Flag_Fife.png"
         },
 
         {
+            "id":"5",
             "name": "Cape Town, ZA",
-            "id": "3369157",
+            "city_id": "3369157",
             "image":"./images/Flag_CapeTown.png"
         },
         {
+            "id":"6",
             "name": "Budapest, HU",
-            "id": "3054643",
+            "city_id": "3054643",
             "image":"./images/Flag_Budapest"
         },
         {
+            "id":"7",
             "name": "Tokyo, JP",
-            "id": "1850147",
+            "city_id": "1850147",
             "image":"./images/Flag_Japan.png"
         },
         {
+            "id":"8",
             "name": "Florence, IT",
-            "id": "3176959",
+            "city_id": "3176959",
             "image":"./images/Flag_Florence.png"
         },
         {
+            "id":"9",
             "name": "Moscow, RU",
-            "id": "524901",
+            "city_id": "524901",
             "image":"./images/Flag_Moscow.png"
         },
         {
+            "id":"10",
             "name": "Kiev(kyiv), UA",
-            "id": "703448",
+            "city_id": "703448",
             "image":"./images/Flag_Kiev.png"
         },
         {
+            "id":"11",
             "name": "Barcelona, ES",
-            "id": "3128760",
+            "city_id": "3128760",
             "image":"./images/Flag_Barcelona"
         },
         {
+            "id":"12",
             "name": "Warsaw, PL",
-            "id": "756135",
+            "city_id": "756135",
             "image":"./images/Flag_Warsaw.png"
         },
         {
+            "id":"13",
             "name": "Athens, GR",
-            "id": "264371",
+            "city_id": "264371",
             "image":"./images/Flag_Athens.png"
         },
         {
+            "id":"14",
             "name": "Paris, FR",
-            "id": "2988507",
+            "city_id": "2988507",
             "image":"./images/Flag_Paris.png"
         }
     ]
